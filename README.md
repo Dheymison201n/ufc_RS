@@ -1,2 +1,2 @@
 # ufc_RS
-Repositorio para a atividades de Reuso de Software.
+Repositorio para o trabalho de Reuso de Software.
